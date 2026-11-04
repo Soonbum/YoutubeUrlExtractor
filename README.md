@@ -9,4 +9,4 @@
 
 # 실행시 선행 조건
 
-YoutubeUrlExtractor.exe 실행할 때 yt-dlp.exe 파일(https://github.com/yt-dlp/yt-dlp/releases)이 있어야 정상 작동합니다.
+YoutubeUrlExtractor.exe 실행할 때 [yt-dlp.exe 파일](https://github.com/yt-dlp/yt-dlp/releases)이 있어야 정상 작동합니다.
